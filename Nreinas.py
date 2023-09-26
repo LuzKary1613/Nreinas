@@ -51,6 +51,6 @@ def main():
         tableroX(tablero)
     else:
         print("Sin solución.")
-
+# VERIFICA SI EL SCRIPT SE ESTÁ EJECUTANDO COMO PROGRAMA PRINCIPAL.
 if __name__ == "__main__":
     main()
